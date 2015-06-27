@@ -83,7 +83,7 @@ Repeat a given string (first argument) n times (second argument). Return an empt
 Day 7
 ```javascript
 function end(str, target) {
-  // "Never give up and good luck will find you."
+  // "Never give up and good luck will find you.."
   // -- Falcor
   return str;
 }

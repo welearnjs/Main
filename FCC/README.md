@@ -1,4 +1,4 @@
-Day 18
+Day 19
 ```javascript
 function convert(num) {
  return num;
@@ -8,7 +8,7 @@ convert(36);
 Convert the given number into a roman numeral.
 All roman numerals answers should be provided in upper-case.
 
-Day 17
+Day 18
 ```javascript
 function diff(arr1, arr2) {
   var newArr = [];
@@ -19,7 +19,7 @@ diff([1, 2, 3, 5], [1, 2, 3, 4, 5]);
 ```
 Compare two arrays and return a new array with any items not found in both of the original arrays.
 
-Day 16
+Day 17
 ```javascript
 function sumAll(arr) {
   return(1);
@@ -28,6 +28,16 @@ sumAll([1, 4]);
 ```
 We'll pass you an array of two numbers. Return the sum of those two numbers and all numbers between them.
 The lowest number will not always come first.
+
+Day 16
+```javascript
+function where(arr, num) {
+  // Find my place in this sorted array.
+  return num;
+}
+where([40, 60], 50);
+```
+Return the lowest index at which a value (second argument) should be inserted into a sorted array (first argument). For example, where([1,2,3,4], 1.5) should return 1 because it is greater than 1 (0th index), but less than 2 (1st index).
 
 Day 15
 ```javascript

@@ -1,3 +1,34 @@
+Day 18
+```javascript
+function convert(num) {
+ return num;
+}
+convert(36);
+```
+Convert the given number into a roman numeral.
+All roman numerals answers should be provided in upper-case.
+
+Day 17
+```javascript
+function diff(arr1, arr2) {
+  var newArr = [];
+  // Same, same; but different.
+  return newArr;
+}
+diff([1, 2, 3, 5], [1, 2, 3, 4, 5]);
+```
+Compare two arrays and return a new array with any items not found in both of the original arrays.
+
+Day 16
+```javascript
+function sumAll(arr) {
+  return(1);
+}
+sumAll([1, 4]);
+```
+We'll pass you an array of two numbers. Return the sum of those two numbers and all numbers between them.
+The lowest number will not always come first.
+
 Day 15
 ```javascript
 function destroyer(arr) {

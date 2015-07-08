@@ -7,4 +7,4 @@ function where(collection, source) {
    }
    return item;
  });
-}s
+}

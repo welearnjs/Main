@@ -1,4 +1,4 @@
-# WeLearnJS
+# WeLearnJS Javascript Study plan
 
 **Challenges + Projects**
 

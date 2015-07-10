@@ -3,6 +3,7 @@
 **Project-1 Description**
 
 Welcome to Project Channel 1!
+*to be involved in a project, join #project-2 channel on slack*
 
 Let’s start with a quiz!
 We’re going to be building a Javascript Quiz web application. This will be a simple app that uses HMTL, CSS and JS and it should have the following functionality:

@@ -10,33 +10,33 @@ Commands:
    + Go to folder: **cd folderName**
    + Initialize git: **git init**
 
-![Picture-1]()
+![Picture-1](http://i.imgur.com/aNGVAdz.jpg)
 
 3. Create a working copy of a local repository by running the command:
    + **git clone https://github.com/welearnjs/Main.git**
 
 
-![Picture-2]()
+![Picture-2](http://i.imgur.com/kqgSGyx.jpg)
 
 4. Go to /Challenges folder and change branch from master to challenges.
 Commands:
    + Go to /Challenges: **cd /Challenges**
    + Change branch: **git checkout challenges**
 
-![Picture-3]()
+![Picture-3](http://i.imgur.com/8N4cYao.jpg)
 
 5. And now you can solve tasks and copy your solutions to an appropriate folder. For example I’ve added "ExampleDay1.js" file to the folder (/Challenges/FCC/Day1). After running command "git status" you can see a list of files which are untracked. The git status command displays the state of the working directory.
 Commands:
     + Check git status: **git status**
 
-![Picture-4]()
+![Picture-4](http://i.imgur.com/LlG9WYM.jpg)
 
 6. Now you need to make a file tracked by running  command "git add ExampleDay1.js". It‘s good practice to check the state of your repository before committing changes so that you don’t accidentally commit something you don't mean to.
 Commands:
    + Add file: **git add ExampleDay1.js**  (or "git add *", will add all files)
    + Check git status: **git status**
 
-![Picture-5]()
+![Picture-5](http://i.imgur.com/HD6pGnU.jpg)
 
 
 7. To actually commit these changes use: git commit -m “Your comment”. Now the file is committed, but not in your remote repository yet. Note: comment should be meaningful
@@ -44,13 +44,13 @@ Commands:
    + Commit file: git commit -m “Your comment”
    + Git status: git status
 
-![Picture-6]()
+![Picture-6](http://i.imgur.com/1FNREjr.jpg)
 
 8. Your changes are now in the HEAD of your local working copy. To send those changes to your remote repository, execute git push origin challenges. And after we can see our file on remote repository on github.com
 Commands:
    + Push committed file to remote repository:  git push origin challenges
 
-![Picture-7]()
-![Picture-8]()
+![Picture-7](http://i.imgur.com/KUTKPDO.jpg)
+![Picture-8](http://i.imgur.com/l4VEoUd.jpg)
 
 

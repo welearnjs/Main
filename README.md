@@ -16,7 +16,7 @@ ___
     + __[Challenges](https://github.com/welearnjs/Challenges/tree/master/FCC)__ that we take from other resources and share solutions with each other, discussions: **#challenges**
   2. *For others (beginners to more experienced)* we have an ongoing series of open-source projects that you can join to solidify your knowledge and build up your portfolio. Every project has it's own **#project** channel and a 'Project Guide' to use as a starting point. By finishing a project you become a mentor. A *mentor* at WeLearnJS, is someone who has finished a project/challenges/etc and is therefore qualified to help others finish that project. This simple idea allows for anyone who is a mentor to continuously hone their skills. It also gives the beginner’s someone to turn to for help. Projects doesn't have a starting/ending date, you choose them according to your JS level of knowledge.
 You can start your own project and build a team around it, we would consider all the suggestions added to the **#getting-started** channel.
-      + Current projects:
+      Current projects:
         - __[#project-1 Description](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-1)__
         - __[#project-2 Description](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-2)__
 

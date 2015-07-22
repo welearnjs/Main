@@ -111,6 +111,7 @@ https://docs.webplatform.org/wiki/javascript (recommended by Aaron)
 **Tasks:**
 
 From this point you can start sharing your solution here __[Challenges](https://github.com/welearnjs/Challenges/tree/master/FCC)__ and push your solutions to our github for feedback
+
 1. FCC: Object Oriented JavaScript 1-9
 2. FCC Basic Algorithm Scripting 1-8
 
@@ -147,6 +148,7 @@ Zakas Chapter 7: Function Expressions
 #### Week 12-14: DOM, Regular Expressions, Window Object, Events
 
 **Tasks**
+
 1. FCC Basic Algorithm Scripting 17-20
 2. Go to channel #project-1 on Slack and start __[#project-1](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-1)__ which is a dynamic Quiz App, and push your solution to our github for feedback.
 

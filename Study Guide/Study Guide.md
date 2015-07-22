@@ -74,6 +74,7 @@ to: Study Guide / Week1 / yournickname.js
 (Quick Intro)
 
 **Tasks:**
+
 1. FCC: jQuery 1-5
 2. JavaScript/HTML/jQuery Interactive Website: http://www.codecademy.com/skills/make-an-interactive-website
 3. http://try.jquery.com/
@@ -88,6 +89,7 @@ to: Study Guide / Week1 / yournickname.js
 (Introduction, Data Types, Expressions, Operators, and Objects)
 
 **Tasks:**
+
 1. FCC: Basic JavaScript 1-10
 2. Chrome Dev Tools (developer.chrome.com): https://developer.chrome.com/devtools
 3. JavaScript Basics (codecademy.com): www.codecademy.com/tracks/javascript
@@ -107,6 +109,7 @@ https://docs.webplatform.org/wiki/javascript (recommended by Aaron)
 #### Week 6-8: JS Objects
 
 **Tasks:**
+
 From this point you can start sharing your solution here __[Challenges](https://github.com/welearnjs/Challenges/tree/master/FCC)__ and push your solutions to our github for feedback
 1. FCC: Object Oriented JavaScript 1-9
 2. FCC Basic Algorithm Scripting 1-8
@@ -123,6 +126,7 @@ From this point you can start sharing your solution here __[Challenges](https://
 #### Week 9-11: JS Functions
 
 **Tasks:**
+
 1. FCC Basic Algorithm Scripting 9-16
 2. FCC Functional Programming Waypoint 1: Practice Functional Programming
 
@@ -143,8 +147,8 @@ Zakas Chapter 7: Function Expressions
 #### Week 12-14: DOM, Regular Expressions, Window Object, Events
 
 **Tasks**
-* FCC Basic Algorithm Scripting 17-20
-* Go to channel #project-1 on Slack and start __[#project-1](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-1)__ which is a dynamic Quiz App, and push your solution to our github for feedback.
+1. FCC Basic Algorithm Scripting 17-20
+2. Go to channel #project-1 on Slack and start __[#project-1](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-1)__ which is a dynamic Quiz App, and push your solution to our github for feedback.
 
 **Reading**
 * Zakas Chapter 8: The Browser Object Model
@@ -159,6 +163,7 @@ Zakas Chapter 7: Function Expressions
 #### Week 15: HTML5, Practice
 
 **Tasks**
+
 1. FCC Basic Algorithm Scripting 21-38
 2. FCC Intermediate Algorithm Scripting 1-3
 3. FCC Front End Development Projects: Pick one

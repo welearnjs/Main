@@ -7,7 +7,7 @@ ___
 + leave your github username in **#getting-started** channel
 + join the channel **#study-gd** for questions/discussion/issues
 
-This study guide is intended for beginners entering the field of web-development. Each week will contain a task + additional reading + resources to fill in the knowledge gaps. You can choose whatever suits you best, a good book or a combination of resources, you decide. After finishing this guide or somewhere in the middle you will be able to start doing - __[Projects]()__
+This study guide is intended for beginners entering the field of web-development. Each week will contain a task + additional reading + resources to fill in the knowledge gaps. You can choose whatever suits you best, a good book or a combination of resources, you decide. After finishing this guide or somewhere in the middle you will be able to start doing - __[Projects](https://github.com/welearnjs/Challenges/tree/master/Projects)__
 
 Our main book throughout the weeks is
 +  Nicholas C. Zakas, Professional Javascript for Web Developers, 3rd edition

@@ -2,7 +2,7 @@
 ### What is WeLearnJS?
 ___
 
-> WeLearnJS is a Slack group, originally created by __[Marina](https://twitter.com/welearnjs){:target="_blank"}__ is for organised people, who are willing to learn JS properly. We won’t be relying on bootcamps or paid online courses for learning. Instead we are a self motivating group of individuals that support each other through the process of javascript learning with an ongoing series of projects/challenges. We believe that the best way to learn and become an expert in something is by doing and we also believe that you truly concrete your knowledge when you can teach others. Our group is based on this simple concept - Learn by doing then teach others. ...__[Read More]()__
+> WeLearnJS is a Slack group, originally created by [Marina](https://twitter.com/welearnjs){:target="_blank"} is for organised people, who are willing to learn JS properly. We won’t be relying on bootcamps or paid online courses for learning. Instead we are a self motivating group of individuals that support each other through the process of javascript learning with an ongoing series of projects/challenges. We believe that the best way to learn and become an expert in something is by doing and we also believe that you truly concrete your knowledge when you can teach others. Our group is based on this simple concept - Learn by doing then teach others. ...__[Read More]()__
 ___
 
 

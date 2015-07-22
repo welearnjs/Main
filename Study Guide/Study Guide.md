@@ -49,6 +49,7 @@ to: Study Guide / Week1 / yournickname.js
 #### Week 2: HTML/CSS
 
 **Tasks:**
+
 1. FCC: HTML/CSS 1-45
 2. http://toolness.github.io/css-selector-game/ practice selectors in a game
 3. http://flukeout.github.io/ learning selectors properly in a game

@@ -22,6 +22,7 @@ ___
 
 **Tasks**
 1. https://try.github.io/levels/1/challenges/1   practice using git
+
 2. Following our guide please add a ‘yournickname.js’ file to our repo
 to: Study Guide / Week1 / yournickname.js
 

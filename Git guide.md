@@ -13,7 +13,7 @@ Commands:
 ![Picture-1]()
 
 3. Create a working copy of a local repository by running the command:
-   + **git clone https://github.com/welearnjs/Challenges.git**
+   + **git clone https://github.com/welearnjs/Main.git**
 
 
 ![Picture-2]()

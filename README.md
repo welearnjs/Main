@@ -54,9 +54,8 @@ ___
 | Github | Badge |
 | ------ | ----------- |
 | __[p9gehka](https://github.com/welearnjs)__ | ![p-1](http://i.imgur.com/xpdc0wn.png) ![FCC](http://i.imgur.com/teM4A62.png)|
-| __[Imanuel](https://github.com/welearnjs)__ | ![p-1](http://i.imgur.com/xpdc0wn.png) ![FCC](http://i.imgur.com/teM4A62.png) ![starter-1](http://i.imgur.com/j73IMb7.png) |
+| __[Imanuel](https://github.com/welearnjs)__ | ![p-1](http://i.imgur.com/xpdc0wn.png) ![starter-1](http://i.imgur.com/j73IMb7.png) |
 | __[Oleg](https://github.com/welearnjs)__ | ![p-1](http://i.imgur.com/xpdc0wn.png) ![FCC](http://i.imgur.com/teM4A62.png) ![starter-1](http://i.imgur.com/j73IMb7.png)|
-| __[ramez](https://github.com/welearnjs)__ | ![p-2 starter](http://i.imgur.com/3X2poWc.png) |
 | __[romanovsci](https://github.com/welearnjs)__ | ![FCC](http://i.imgur.com/teM4A62.png) |
 | __[lukyanovfedor](https://github.com/welearnjs)__ | ![FCC](http://i.imgur.com/teM4A62.png) |
 

@@ -12,7 +12,7 @@ ___
 2. Tell us where are you from in **#intros** channel or say that secret password that connects people, *hint*: h***o!
 3. Choose your path
   1. *For beginners*, feeling uncomfortable with Javascript basics, we suggest to start doing:
-    + __[Study Guide](https://github.com/welearnjs/Challenges/blob/master/Study%20Guide/Study%20Guide.md)__ made and approved by our group members, discussions in channel **#study-gd**
+    + __[Study Guide](https://github.com/welearnjs/Challenges/blob/master/Study%20Guide/Study%20Guide.md)__ made and approved by our group members, discussions in channel **#study-guide**
     + Challenges that we take from other resources and share solutions with each other, discussions: **#challenges**.
         Current challenges:
           - __[FreeCodeCamp](https://github.com/welearnjs/Challenges/tree/master/FCC)__

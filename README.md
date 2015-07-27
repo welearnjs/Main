@@ -52,7 +52,7 @@ ___
 * Slack username linking to github profile : Status : Field of Activity
 
 
-22.07.15 - Table is updating...
+27.07.15 - Table is updating...
 
 
 | Github | Badge |
@@ -64,14 +64,15 @@ ___
 | __[lukyanovfedor](https://github.com/welearnjs)__ | ![FCC](http://i.imgur.com/teM4A62.png) |
 
 
-All Badges:
+Current badges to acquire:
 
-![starter-2](http://i.imgur.com/3X2poWc.png)
-![starter-1](http://i.imgur.com/j73IMb7.png)
-![p-1](http://i.imgur.com/xpdc0wn.png)
-![p-2](http://i.imgur.com/chhyuw4.png)
-![FCC](http://i.imgur.com/teM4A62.png)
-![study-gd](http://i.imgur.com/P5iCfRz.png)
+* ![starter-2](http://i.imgur.com/3X2poWc.png) - came up with idea for the project-2
+* ![starter-1](http://i.imgur.com/j73IMb7.png) - came up with idea for the project-1
+* ![p-1](http://i.imgur.com/xpdc0wn.png) - finished project-1, qualified to help others
+* ![p-2](http://i.imgur.com/chhyuw4.png) - finished project-2, qualified to help others
+* ![FCC](http://i.imgur.com/teM4A62.png) - finished FCC challenges, qualified to help others
+* ![study-gd](http://i.imgur.com/P5iCfRz.png) - finished study-guide, qualified to help others
+* ![code-reviewer](http://i.imgur.com/mXs64t0.png) - reviewed code on project-2
 
 ---
 # Good luck and have fun learning!

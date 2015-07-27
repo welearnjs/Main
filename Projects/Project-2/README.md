@@ -12,7 +12,7 @@ CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave you github acc 
 * @romanovsci - active
 * @kasually + separate team - active
 * @cragmr (watcher)
-* ...**join by adding your github acc to #project-2 channel**
+* ...you
 
 **Possible groups before official start**
 * 1st - twitter api
@@ -21,12 +21,14 @@ CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave you github acc 
 * 4th group - Google maps
 
 ** Project-2 Description **
+
 We are going to build a web application to tracks your activity as a helper at WeLearnJS Slack Group, each member who received help from any member, would need to tweet about it to the world, that is the way to say "Thank you”. Tweet should contain a member-helper and a special hashtag #welearnjs. After that Member-helper and member-suggester will appear on a google map, taking their geo-location into account. Each member will have 2 dots (circular diagrams) displaying certain activity:
 
  - First dot displaying amount of overall help by that user on a projects, will grow in size with each mention
- - Second dot displaying amount of suggested or @mentioned helpers. That way members will have a purpose to tweet,  reward
+ - Second dot displaying amount of suggested or @mentioned helpers. That way members will have a purpose to tweet
 
 *Simple example*
+
 ![example](http://i.imgur.com/Xn6lmXP.png)
 
 *Example of a tweet:*

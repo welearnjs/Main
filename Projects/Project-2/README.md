@@ -40,8 +40,7 @@ We are going to build a web application to track your activity as a helper at We
 * @nickname of a person who helped
 * The welearnjs hashtag to filter out needed tweets #welearnjs
 
-It will be location based so our primary interface will consist of a map showing the location of the
-people who suggested somebody as a helper and helpers themselves. Approximate Mockup of data taken from Twitter and projected onto a google map.
+It will be location based so our primary interface will consist of a map showing the location of people who suggested somebody as a helper and helpers themselves. Approximate Mockup of data taken from Twitter and projected onto a google map.
 
 Zoom lvl1. Dots presenting members from one country/location will appear/grow live
 
@@ -56,11 +55,11 @@ Zoom lvl3. Members from one location will be combined into groups, the dot prese
 
 **Collaboration process**
 
-* We would use ( https://trello.com/ ), so each team would see what needs to be done.
-* We divide project onto parts and every group will accomplish its (self chosen) tasks in weekly sprints.
+* We will use ( https://trello.com/ ), so each team would see what needs to be done.
+* We will divide project onto parts and every group will accomplish its (self chosen) tasks in weekly sprints.
 * Every team will have it’s leader, responsible to follow what needs to be done.
-* Every day, a team leader should make a daily check-up of what's being done
-* By the end of the week(sunday), teams should push it’s work to github, and we will discuss what's done on a arranged meetup (to decide)
-* Teams can chat with each other and help with ongoing work
+* Team leader would choose a day for collaboration, would make a daily check-ups of what was done during the day
+* By the end of the week, when teams are done with the code they can add @craigmr ![code-reviewer](http://i.imgur.com/mXs64t0.png) to a pull request, after that their code will be reviewed. All the discussions/meetups can be arranged after that
+* Teams can help each other with ongoing work during the week.
 
 

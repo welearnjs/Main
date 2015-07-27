@@ -27,7 +27,7 @@ ___
 to: Study Guide / Week1 / yournickname.js
 
 **WeLearnJS Git guide**
-* __[How to use git](http://javascript-devs.herokuapp.com/)__
+* __[How to use git](https://github.com/welearnjs/Main/blob/master/Git%20guide.md)__
 
 **Reading**
 * https://git-scm.com/book/en/v2 Git online book
@@ -110,7 +110,7 @@ https://docs.webplatform.org/wiki/javascript (recommended by Aaron)
 
 **Tasks:**
 
-From this point you can start sharing your solution here __[Challenges](https://github.com/welearnjs/Challenges/tree/master/FCC)__ and push your solutions to our github for feedback
+From this point you can start sharing your solution __[Here](https://github.com/welearnjs/Challenges/tree/master/FCC)__ and push your solutions to our github for feedback
 
 1. FCC: Object Oriented JavaScript 1-9
 2. FCC Basic Algorithm Scripting 1-8

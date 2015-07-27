@@ -1,6 +1,6 @@
 # #Project-2 name: Helpers App
 
-CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave you github acc in #project-2 channel. Currently enrolled: **8 members**. Start Date: **03.08**. Project will be done in small groups of 2-3
+CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave your github account in **#project-2** channel. Currently enrolled: **8 members**. Start Date: **03.08**. Project will be done in small groups of 2-3
 
 **Members who joined this open-source project**
 
@@ -23,7 +23,7 @@ CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave you github acc 
 
 **Project-2 Description**
 
-We are going to build a web application to tracks your activity as a helper at WeLearnJS Slack Group, each member who received help from any member, would need to tweet about it to the world, that is the way to say "Thank you”. Tweet should contain a member-helper and a special hashtag #welearnjs. After that Member-helper and member-suggester will appear on a google map, taking their geo-location into account. Each member will have 2 dots (circular diagrams) displaying certain activity:
+We are going to build a web application to track your activity as a helper at WeLearnJS Slack Group, each member who received help from any member, would need to tweet about it to the world, that is the way to say "Thank you”. Tweet should contain a member-helper and a special hashtag #welearnjs. After that Member-helper and member-suggester will appear on a google map, taking their geo-location into account. Each member will have 2 dots (circular diagrams) displaying certain activity:
 
  - First dot displaying amount of overall help by that user on a projects, will grow in size with each mention
  - Second dot displaying amount of suggested or @mentioned helpers. That way members will have a purpose to tweet

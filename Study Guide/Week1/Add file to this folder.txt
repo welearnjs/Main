@@ -1,0 +1,4 @@
+Following our Git guide, please add a ‘yournickname.js’ file to this folder
+>>> Study Guide / Week1 / yournickname.js
+
+

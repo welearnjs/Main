@@ -13,7 +13,7 @@ ___
 3. Choose your path
   1. *For beginners*, feeling uncomfortable with Javascript basics, we suggest to start doing:
     + __[Study Guide](https://github.com/welearnjs/Challenges/blob/master/Study%20Guide/Study%20Guide.md)__ made and approved by our group members, discussions in channel **#study-gd**
-    + Challenges that we take from other resources and share solutions with each other, discussions: **#challenges**
+    + Challenges that we take from other resources and share solutions with each other, discussions: **#challenges**.
         Current challenges:
           - __[FreeCodeCamp](https://github.com/welearnjs/Challenges/tree/master/FCC)__
   2. *For others (beginners to more experienced)* we have an ongoing series of open-source projects that you can join to solidify your knowledge and build up your portfolio. Every project has it's own **#project** channel and a 'Project Guide' to use as a starting point. By finishing a project you become a mentor. A *mentor* at WeLearnJS, is someone who has finished a project/challenges/etc and is therefore qualified to help others finish that project. This simple idea allows for anyone who is a mentor to continuously hone their skills. It also gives the beginner’s someone to turn to for help.
@@ -22,7 +22,7 @@ You can start your own project and build a team around it, we would consider all
         - __[#project-1 Description](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-1)__ individual project
             - **Current status:** Start any time, when finished, share your solution for feedback
         - __[#project-2 Description](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-2)__ group project
-            - **Current status:** enrollment to the project, leave you github acc in #project-2 channel. Currently enrolled: **8 members**
+            - **Current status:** enrollment to the project **27.07-02.08**, leave you github acc in #project-2 channel. Currently enrolled: **8 members**. Start Date: **03.08**
 
 
 4. Share your github account name in a **#getting-started** channel on slack, and you will be added to the contributors list promptly. After that you will be recognised as an official player of our team, with an ability to share solutions to challenges/projects.

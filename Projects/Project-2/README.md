@@ -12,7 +12,7 @@ CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave you github acc 
 * @romanovsci - active
 * @kasually + separate team - active
 * @marina - css/html - active
-* @cragmr
+* @craigmr - active - ![code-reviewer](http://i.imgur.com/mXs64t0.png)
 * ...you
 
 **Possible groups before official start**

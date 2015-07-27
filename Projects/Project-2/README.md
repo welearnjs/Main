@@ -11,7 +11,8 @@ CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave you github acc 
 * @p9gehka - active
 * @romanovsci - active
 * @kasually + separate team - active
-* @cragmr (watcher)
+* @marina - css/html - active
+* @cragmr
 * ...you
 
 **Possible groups before official start**
@@ -20,7 +21,7 @@ CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave you github acc 
 * 3rd group - Google maps
 * 4th group - Google maps
 
-** Project-2 Description **
+**Project-2 Description**
 
 We are going to build a web application to tracks your activity as a helper at WeLearnJS Slack Group, each member who received help from any member, would need to tweet about it to the world, that is the way to say "Thank you”. Tweet should contain a member-helper and a special hashtag #welearnjs. After that Member-helper and member-suggester will appear on a google map, taking their geo-location into account. Each member will have 2 dots (circular diagrams) displaying certain activity:
 
@@ -43,10 +44,13 @@ It will be location based so our primary interface will consist of a map showing
 people who suggested somebody as a helper and helpers themselves. Approximate Mockup of data taken from Twitter and projected onto a google map.
 
 Zoom lvl1. Dots presenting members from one country/location will appear/grow live
+
 ![starter-2](http://i.imgur.com/sDmc5hg.png)
 Zoom lvl2. Dots presenting group of members(counted) from one location. Can be different location - different colors.
+
 ![starter-2](http://i.imgur.com/03W86J3.png)
 Zoom lvl3. Members from one location will be combined into groups, the dot presenting country will also grow in size (addition for next iterations)
+
 ![starter-2](http://i.imgur.com/wyKgo8A.png)
 
 

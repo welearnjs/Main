@@ -1,6 +1,6 @@
 # #Project-2: Helpers App
 
-CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave your github account in **#project-2** channel. Currently enrolled: **8 members**. Start Date: **03.08**. Project will be done in small groups of 2-3
+CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave your github account in **#project-2** channel. Currently enrolled: **9 members**. Start Date: **03.08**. Project will be done in small groups of 2-3
 
 **Members who joined this open-source project**
 
@@ -13,6 +13,7 @@ CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave your github acc
 * @kasually + separate team - active
 * @marina - ui/ux help - active
 * @craigmr - code reviewer - ![code-reviewer](http://i.imgur.com/mXs64t0.png) - active
+* @ramez - project coordinator
 * ...you
 
 **Possible groups, before the official start**

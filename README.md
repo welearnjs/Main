@@ -19,10 +19,10 @@ ___
   2. *For others (beginners to more experienced)* we have an ongoing series of open-source projects that you can join to solidify your knowledge and build up your portfolio. Every project has it's own **#project** channel and a 'Project Guide' to use as a starting point. By finishing a project you become a mentor. A *mentor* at WeLearnJS, is someone who has finished a project/challenges/etc and is therefore qualified to help others finish that project. This simple idea allows for anyone who is a mentor to continuously hone their skills. It also gives the beginner’s someone to turn to for help.
 You can start your own project and build a team around it, we would consider all the suggestions added to the **#getting-started** channel.
       Current projects:
-        - __[#project-1 Description](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-1)__ individual project
+        - __[#project-1 guide](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-1)__ individual project
             - **Current status:** Start any time, when finished, share your solution __[here](https://github.com/welearnjs/Main/tree/master/Projects/Project-1)__ for feedback
-        - __[#project-2 Description](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-2)__ group project
-            - **Current status:** enrollment to the project **27.07-02.08**, leave your github account in **#project-2** channel. Currently enrolled: **8 members**. Start Date: **03.08**
+        - __[#project-2 guide](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-2)__ group project
+            - **Current status:** enrollment to the project **27.07-02.08**, leave your github account in **#project-2** channel. Currently enrolled: **9 members**. Start Date: **03.08**
 
 
 4. Share your github account name in a **#getting-started** channel on slack, and you will be added to the contributors list promptly. After that you will be recognised as an official player of our team, with an ability to share solutions to challenges/projects.

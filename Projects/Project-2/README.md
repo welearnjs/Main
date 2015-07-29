@@ -21,9 +21,7 @@ separate team
 * @kasually + his team - active
 
 separate team
-
-* @alan - active
-* @justinzw - active
+* @alan + @justinzw - active
 
 * ...you
 

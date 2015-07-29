@@ -1,7 +1,12 @@
-/**
-* Created with Test.
-* User: Apaksimen
-* Date: 2015-06-12
-* Time: 11:25 AM
-* To change this template use Tools | Templates.
-*/
+function steamroller(arr) {
+
+    return arr.toString().replace(/,+/, ',').split(',').map(function (item, index, array) {
+        return (!isNaN(item)) ? parseInt(item) : item;
+    });
+
+}
+
+
+console.log(steamroller([1, [2], [3, [[4]]]]));
+console.log(steamroller([1, [], [3, [[4]]]]));
+console.log(steamroller([[['a']], [['b']]]));

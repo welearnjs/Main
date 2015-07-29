@@ -1,7 +1,11 @@
-/**
-* Created with Test.
-* User: Apaksimen
-* Date: 2015-06-12
-* Time: 11:25 AM
-* To change this template use Tools | Templates.
-*/
+function add(x, y) {
+    if (!x || typeof y !== 'number' && y !== undefined) {
+        return;
+    } else if (arguments.length === 1 && !isNaN(x)) {
+        return function addMore(y) {
+            if (typeof y === 'number') return x + y;
+        };
+    }
+    if (arguments.length === 2) return x + y;
+
+}

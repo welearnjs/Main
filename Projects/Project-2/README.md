@@ -2,6 +2,8 @@
 
 CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave your github account in **#project-2** channel. Currently enrolled: **9 members**. Start Date: **03.08**. Project will be done in small groups of 2-3
 
+Level required: **from beginner to advanced**
+
 **Members who joined this open-source project**
 
 * @imanuel  - active

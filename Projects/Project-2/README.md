@@ -17,6 +17,7 @@ Level required: **from beginner to advanced**
 * @craigmr - code reviewer - ![code-reviewer](http://i.imgur.com/mXs64t0.png) - active
 * @ramez - project coordinator
 * @alan - active
+* @tores - active
 * ...you
 
 **Possible groups, before the official start**

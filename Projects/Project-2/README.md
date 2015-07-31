@@ -1,6 +1,6 @@
 # #Project-2: Helpers App
 
-CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave your github account in **#project-2** channel. Currently enrolled: **14+ members**. Start Date: **03.08**. Project will be done in small groups of 2-3
+CURRENT STATUS OF THE PROJECT: enrollment **27.07-02.08**, leave your github account in **#project-2** channel. Currently enrolled: **15+ members**. Start Date: **03.08**. Project will be done in small groups of 2-3
 
 Level required: **from beginner to advanced**
 
@@ -17,6 +17,7 @@ Level required: **from beginner to advanced**
 * @ramez - project coordinator
 * @tores - active
 * @clydelobo - active
+* @katin - active
 
 separate team
 * @kasually + his team - active

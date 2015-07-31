@@ -6,24 +6,32 @@ Level required: **from beginner to advanced**
 
 **Members who joined this open-source project**
 
-* @imanuel  - active
-* @angelocordon -  active
+Team 0 - Coordination / Code Review / UI+UX help
+* @craigmr - code reviewer - ![code-reviewer](http://i.imgur.com/mXs64t0.png) - active
+* @ramez/@oleg - project coordinators
+* @marina - ui/ux help - active
+
+Team 1
+* @tores - active
+* @clydelobo - active
 * @apoorv - active
+
+Team 2
 * @oleg  - active
 * @p9gehka - active
 * @romanovsci - active
-* @marina - ui/ux help - active
-* @craigmr - code reviewer - ![code-reviewer](http://i.imgur.com/mXs64t0.png) - active
-* @ramez - project coordinator
-* @tores - active
-* @clydelobo - active
+
+Team 3
+* @imanuel  - active
+* @angelocordon -  active
 * @katin - active
 
-separate team
+Team 4 - initially separate team
 * @kasually + his team - active
 
-separate team
-* @alan + @justinzw - active
+Team 5 - initially separate team
+* @alan - active
+* @justinzw - active
 
 * ...you
 

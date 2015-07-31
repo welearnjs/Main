@@ -36,10 +36,11 @@ Team 5 - initially separate team
 * ...you
 
 **Possible groups, before the official start**
-* 1st - twitter api
-* 2nd - twitter api
-* 3rd group - Google maps
-* 4th group - Google maps
+*  group - twitter api
+*  group - twitter api
+*  group - Google maps
+*  group - Google maps
+*  group - Google maps / twitter api
 
 **Project-2 Description**
 

@@ -30,10 +30,9 @@ Team 4 - initially separate team
 * @kasually + his team - active
 
 Team 5 - initially separate team
-* @alan - active
-* @justinzw - active
+* @alan + @justinzw - active
 
-* ...you
+...you
 
 **Possible groups, before the official start**
 *  group - twitter api

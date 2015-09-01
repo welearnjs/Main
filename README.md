@@ -2,7 +2,7 @@
 ### What is WeLearnJS?
 ___
 
-> WeLearnJS is a Slack group, originally created by __[Marina](https://twitter.com/welearnjs)__ is for self-organised people, who are willing to learn JS properly. We won’t be relying on bootcamps or paid online courses for learning. Instead we are a self motivating group of individuals that support each other through the process of javascript learning with an ongoing series of projects/challenges. We believe that the best way to learn and become an expert in something is by doing and we also believe that you truly concrete your knowledge when you can teach others. Our group is based on this simple concept - Learn by doing then teach others.
+> WeLearnJS is a Slack group, originally created by __[Marina](https://twitter.com/welearnjs)__ is for self-organised people, who are willing to learn JS properly. We are a self motivating group of individuals that support each other through the process of javascript learning with an ongoing series of projects/challenges. We believe that the best way to learn and become an expert in something is by doing and we also believe that you truly concrete your knowledge when you can teach others. Our group is based on this simple concept - Learn by doing then teach others.
 ___
 
 
@@ -25,7 +25,7 @@ You can start your own project and build a team around it, we would consider all
             - **Current status:** enrollment has ended, but still possible to join by leaving your github account in **#project-2** channel. Currently: 4 teams. Start Date: **03.08**
 
 
-4. Share your github account name in a **#getting-started** channel on slack, and you will be added to the contributors list promptly. After that you will be recognised as an official player of our team, with an ability to share solutions to challenges/projects.
+4. Share your github account with our admins (@marina, @oleg, @imanuel on Slack) and you will be added to the contributors list promptly. After that you will be recognised as an official player of our team, with an ability to share solutions to challenges/projects.
 For those not familiar with git, we have a guide. __[How to use Git](https://github.com/welearnjs/Challenges/blob/master/Git%20guide.md)__
 
 

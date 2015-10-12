@@ -49,9 +49,6 @@ ___
 * Slack username linking to github profile : Status : Field of Activity
 
 
-27.07.15 - Table is updating...
-
-
 | Github | Badge |
 | ------ | ----------- |
 | __[p9gehka](https://github.com/welearnjs)__ | ![p-1](http://i.imgur.com/xpdc0wn.png) ![FCC](http://i.imgur.com/teM4A62.png)|

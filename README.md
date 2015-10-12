@@ -21,7 +21,7 @@ You can start your own project and build a team around it, we would consider all
       Current projects:
         - __[#project-1 guide](https://github.com/welearnjs/Challenges/tree/master/Projects/Project-1)__ individual project
             - **Current status:** Start any time, when finished, share your solution __[here](https://github.com/welearnjs/Main/tree/master/Projects/Project-1)__ for feedback
-        - __[#project-2 guide](https://github.com/welearnjs/helpersApp)__ group project
+        - __[#project-2](https://github.com/welearnjs/helpersApp)__ group project
             - **Current status:** enrollment has ended, but still possible to join by leaving your github account in **#project-2** channel. 
         - project-3 soon to be announced
 
